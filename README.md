@@ -1,4 +1,4 @@
-# Diabetics-Prediction-Detection-App
+# Diabetes-Prediction-Detection-App
 ![](static/images/123.png)
 Simple App which can detect Weather you are diagnoised with Diabetic or not depending up on users data provided to the application.
 * Created an app that detects wheather they have have Diabetics or not to help doctors with 89% accuracy .
