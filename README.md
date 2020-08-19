@@ -16,7 +16,12 @@ Simple App which can detect Weather you are diagnoised with Diabetic or not depe
 
 ![](static/images/124.png)
 
-> To know relationship between every feature i had used corr()
+> To know cor-relation  between every feature i had used corr()
+
+![](static/images/125.png)
+
+* To check Outliers i had used Box plot to know weather outliers present or not .And this is one of the best way to check outliers.
+* To remove outliers Z-score is one of the best way to remove outliers .
 ## Model Building :
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
 I tried three different models and evaluated them using Classification Metrics. I chose Confusion Matrix Because it's better to understand how many features are going to support and not going to support .
